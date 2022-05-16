@@ -1,0 +1,11 @@
+Salamanca;300;Pepe
+Burgos;3000;Juan
+Madrid;500;Pepe
+Salamanca;60;Juan
+Bilbao;30;Juan
+Basauri;2000;Lucia
+Etxebarri;1000;Lucia
+Zamora;50000;Liborio
+Leon;4000;Lucia
+Palencia;90;Juan
+Murcia;7000;Pepe

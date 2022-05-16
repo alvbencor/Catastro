@@ -1,0 +1,4 @@
+Pepe;55;Salamanca
+Juan;60;Pedroso
+Lucia;39;Basauri
+Liborio;25;Madrid
